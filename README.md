@@ -1,4 +1,4 @@
-# Olá! Eu sou [Seu Nome] 👋
+# Olá! Eu sou Matheus 👋
 
 **Analista de Dados Júnior** apaixonado por transformar dados brutos em indicadores claros e decisões estratégicas. Tenho experiência prática em modelagem de dados, ETL, construção de KPIs e criação de dashboards interativos.
 
